@@ -52,3 +52,8 @@ Production use needs clearinghouse/payer integrations and compliance review.
 
 **PHI / HIPAA:** claim files and reports contain protected health information. Keep them on
 encrypted, access-controlled storage; do not send them by unsecured email or chat.
+
+## License
+
+All Rights Reserved — shared publicly for portfolio/demonstration purposes only.
+See [LICENSE](LICENSE). No reuse, copying, or redistribution without permission.
